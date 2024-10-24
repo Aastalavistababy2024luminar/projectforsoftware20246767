@@ -5,6 +5,7 @@ import java.rmi.AccessException;
 import javax.crypto.KeyAgreement;
 import javax.sql.RowSet;
 
+import org.apache.batik.w3c.dom.events.KeyboardEvent;
 import org.hamcrest.StringDescription;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
