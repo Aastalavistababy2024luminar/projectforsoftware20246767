@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testng.mobilecart2024">
+      <class name="pkg.Alerthandlingtestcasestestng">
         <methods>
+          <include name="tearDown"/>
           <include name="setup"/>
-          <include name="testAddToCart"/>
+          <include name="handleAlertIfPresent"/>
         </methods>
-      </class> <!-- testng.mobilecart2024 -->
+      </class> <!-- pkg.Alerthandlingtestcasestestng -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

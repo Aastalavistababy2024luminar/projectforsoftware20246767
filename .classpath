@@ -6,12 +6,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-22"/>
 	<classpathentry kind="lib" path="D:/selenium java fix merging/auto-service-annotations-1.1.1.jar"/>
 	<classpathentry kind="lib" path="D:/selenium java fix merging/auto-service-annotations-1.1.1-sources.jar"/>
 	<classpathentry kind="lib" path="D:/selenium java fix merging/byte-buddy-1.14.18.jar"/>

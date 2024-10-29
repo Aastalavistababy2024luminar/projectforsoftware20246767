@@ -22,7 +22,8 @@ public static void main(String[] args){
 	By select_date = By.xpath("/html/body/div[3]/div/div/div/div/div[2]/div[2]/table/tbody/tr[3]/td[4]/div");
 	By checkbox = By.xpath("//*[@id=\"app\"]/div/div/div[2]/div/div[2]/div/div/div/div[3]/div[1]/div/div[2]/div/div/div/div[1]/label/span[1]/input");
 	
-	public Rajagiri2 (WebDriver d)
+
+private WebDriver d;	public Rajagiri2 (WebDriver d)
 	{
 		this.d=d;
 	}
